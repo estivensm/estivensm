@@ -4,7 +4,7 @@ Soy desarrollador web con más de 5 años de experiencia en el uso del lenguaje 
 
 <br>
  
-## 📦 Habilidades
+### 🛠 &nbsp;Habilidades
 
 **Desarrollo Frontend:** `React js` `HTML` `CSS` `Javascript` `React js` `React js`
  
