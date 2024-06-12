@@ -46,4 +46,11 @@ Soy desarrollador web con más de 5 años de experiencia en el uso del lenguaje 
 
 ## 📫 Contacto
 
-Para una respuesta rápida, envíame un mensaje privado [LinkedIn](https://www.linkedin.com/in/estiven-salazar-897ab41a9/). 
+<p align="center">
+  <a href="www.linkedin.com/in/estiven-salazar-897ab41a9/"><img alt="Linkedin" title="Jaydeep Yadav Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/estivensm"><img alt="Github" title="Jaydeep Yadav Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+</p>
+
+<p align="center">
+  <a href="mailto:salazarmoncadaestiven0@gmail.com"><img alt="Gmail" title="Jaydeep Yadav Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</p>
