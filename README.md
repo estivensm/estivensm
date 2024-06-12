@@ -14,12 +14,23 @@ Soy un Fullstack Developer Ruby on rails con mas de 5 años de experiencia en el
 
 <br>
 
-## Estadisticas 
+### ⚙️ &nbsp;GitHub Analytics
 
-<!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=estivensm&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=estivensm&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" /></p>
-<br><br><br><br><br><br><br>
+<p align="center">
+  <a href="https://github.com/estivensm">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=estivensm&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  </a>
+  <a href="https://github.com/Adityakanoi2001">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=estivensm&layout=compact&langs_count=8&theme=algolia"/>
+  </a>
+</p>
+
+<p align="center">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=estivensm&theme=dark&hide_border=true"/>
+</p>
+
+
+
 
 ## 📫 Contacto
 
