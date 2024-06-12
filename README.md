@@ -1,16 +1,16 @@
-## Hi there 👋
+### Hola, Soy estiven 👋🏽  
 
-<!--
-**estivensm/estivensm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy un Fullstack Developer Ruby on rails con mas de 5 años de experiencia en el desarrollo de software para el sector de servicios.
+ 
+## 📦 Habilidades
 
-Here are some ideas to get you started:
+**Desarrollo Frontend:** `React js` `HTML` `CSS` `Javascript` `React js` `React js`
+ 
+**Control de versiones:** `Git` `Github`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Desarrollo Backend:** `Ruby` `Ruby On Rails` `Postgresql` `Linux` 
+
+
+## 📫 Contacto
+
+Para una respuesta rápida, envíame un mensaje privado [LinkedIn](https://www.linkedin.com/in/estiven-salazar-897ab41a9/). 
