@@ -1,6 +1,6 @@
 ### Hola, Soy estiven 👋🏽  
 
-Soy desarrollador web con más de 5 años de experiencia en el uso del lenguaje de programación Ruby y el framework Ruby on Rails. Poseo una sólida comprensión del desarrollo de aplicaciones web dinámicas y escalables, con habilidades avanzadas en el diseño de arquitectura de software, gestión de bases de datos y la implementación de interfaces de usuario intuitivas.
+Soy desarrollador web con más de 5 años de experiencia en el uso del lenguaje de programación Ruby y el framework Ruby on Rails. Poseo una sólida comprensión del desarrollo de aplicaciones web dinámicas y escalables, gestión de bases de datos y la implementación de interfaces de usuario intuitivas.
 
 <br>
 
